@@ -2,7 +2,6 @@
 Saya Zaki Adam dengan NIM 2304934 mengerjakan Tugas Praktikum 8 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Perwalian Management System
-Sebuah aplikasi berbasis web modular menggunakan PHP untuk mengelola
 
 ---
 ## Desain Program
